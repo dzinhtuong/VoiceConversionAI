@@ -71,6 +71,10 @@ Toggle between A->B and B->A conversion by setting `--model_name` as either `gen
 
 Select the epoch to load your model from by setting `--load_epoch`.
 
+## GUI:
+To support simple, run python main.py to display GUI.
+Please record button to record your audio in 15s and convert voice to save_dir dir
+![Capture](https://github.com/dzinhtuong/VoiceConversionAI/assets/83016435/3428847d-a905-47f8-a7e8-13125029b433)
 
 ## Acknowledgements
-Source code clone from source https://github.com/GANtastic3/MaskCycleGAN-VC.git and modify to increase stable and exactly in training model
+Source code clone from source https://github.com/GANtastic3/MaskCycleGAN-VC.git and modify to increase stability and exactly in training model
